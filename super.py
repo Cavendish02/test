@@ -7,9 +7,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-get_ipython().system('pip install streamlit')
-get_ipython().system('pip install pandas numpy scikit-learn shap')
-
 import streamlit as st
 import pandas as pd
 import numpy as np
